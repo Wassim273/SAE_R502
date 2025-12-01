@@ -15,10 +15,10 @@ GitHub	Versionning, documentation et livrables
 
 🧩 Organisation SCRUM
 Rôle	Étudiant
-Scrum Master	Bouali Badis
-Lead Dev / Chef de projet	Ilyas Lameghaizi
-Technicien 1	Nguyen Salmane
-Technicien 2	Belarbi Wassim
+Scrum Master	Nguyen Salmane
+Lead Dev / Chef de projet	Belarbi Wassim
+Technicien 1	Bouali Badis 
+Technicien 2	Lameghaizi Ilyas
 
 Gestion SCRUM → Sprint Planning, Daily Scrum, Sprint Review, Sprint Rétro.
 
